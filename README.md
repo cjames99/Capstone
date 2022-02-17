@@ -1,8 +1,8 @@
 # CIND820-capstone
 
 **WORLDWIDE SHORT-TERM RENTAL MARKET ANALYSIS**
-**
-Research Questions**
+
+**Research Questions**
 1. How does the price of short-term rental homes in eight different worldwide markets compare to each other in 2021 on the AirBnB platform?
 2. How can we better understand the weight each variable has against the price? Which variables influence the price the most? Which variables influence the price the least?
 3. What patterns can be found using text mining in the unstructured description text of the listings and how can it be related back to the price?
