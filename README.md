@@ -14,8 +14,7 @@ Research Questions**
 Python 3.10.0
 Jupyter Notebook 6.4.5
 
-**
-Acknowledgements**
+**Acknowledgements**
 
 Thanks to Dr. Erdem for your insight & Inside Air Bnb for providing the data used for this project.
 
