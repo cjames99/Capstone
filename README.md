@@ -1,4 +1,4 @@
-# CIND820-capstone
+# Capstone
 
 **WORLDWIDE SHORT-TERM RENTAL MARKET ANALYSIS**
 
